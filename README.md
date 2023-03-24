@@ -1,4 +1,6 @@
 # Student-Expenditure-Calculator
+**High School Computer Science Project**
+
 A student expenditure application that allows students to calculate the summation of their expenses for university.
 
 This program is a student expenditure calculator where the user can input values of their expenses.
